@@ -1,0 +1,7 @@
+<launch>
+
+  <node pkg="obstacle_runout" type="read_map" name="read_map" output="screen"/>
+
+  <node pkg="obstacle_runout" type="DstarMain" name="DstarMain" output="screen"/>
+  
+</launch>

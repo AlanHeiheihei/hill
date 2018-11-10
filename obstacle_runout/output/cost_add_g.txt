@@ -1,0 +1,7 @@
+kkkkk: (-1909220016,32752)  u.k.first : 7.7028e+09  u.k.second : 0
+kkkkk: (16466784,0)  u.k.first : inf  u.k.second : inf
+kkkkk: (16466784,0)  u.k.first : inf  u.k.second : inf
+kkkkk: (16466784,0)  u.k.first : inf  u.k.second : inf
+bool: 0 1 0
+kkkkk: (-1909220016,32752)  u.k.first : 7.7028e+09  u.k.second : 0
+set : (-1909220016,32752) gval: 0

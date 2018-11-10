@@ -1,0 +1,6 @@
+image: /home/deepdriving/shenrk/xc_Project/catkin_car/src/obstacle_runout/map/1.pgm
+resolution: 0.050000
+origin: [-18.231136, -18.107018, 0.0]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
